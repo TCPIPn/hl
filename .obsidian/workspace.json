@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能.md",
+                "file": "人工智能/我喜欢ai的速度.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人工智能"
+              "title": "我喜欢ai的速度"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "人工智能 的大纲"
             }
+          },
+          {
+            "id": "9ba912c0f33f5fa7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +197,8 @@
   "active": "292620476f85a87a",
   "lastOpenFiles": [
     "人工智能.md",
+    "人工智能/我喜欢ai的速度.md",
+    "人工智能",
     "python"
   ]
 }

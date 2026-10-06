@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"5a1f14fa9f9eea2c","x":-600,"y":-380,"width":851,"height":816,"type":"file","file":"markdown.canvas"},
+		{"id":"0353d721e17f714a","x":-580,"y":-360,"width":860,"height":418,"type":"text","text":"```mermaid\r\nflowchart LR\r\n    Start([开始]) --> A[用户下单]\r\n    A --> B{库存够吗?}\r\n    B -->|够| C[扣库存]\r\n    B -->|不够| D[提示缺货]\r\n    C --> E[生成订单]\r\n    E --> F[支付]\r\n    F --> End([结束])\r\n```\r\n"}
+	],
+	"edges":[]
+}

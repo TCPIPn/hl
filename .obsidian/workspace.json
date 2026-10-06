@@ -11,14 +11,17 @@
             "id": "292620476f85a87a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "markdown.canvas",
+                "viewState": {
+                  "x": -174.5,
+                  "y": 68,
+                  "zoom": 0
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-layout-dashboard",
+              "title": "markdown"
             }
           }
         ]
@@ -199,6 +202,7 @@
   "active": "292620476f85a87a",
   "lastOpenFiles": [
     "人工智能/我喜欢ai的速度.md",
+    "markdown.canvas",
     "README.md",
     "人工智能.md",
     "人工智能",

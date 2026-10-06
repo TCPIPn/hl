@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week7序列标注/那啥欧克学会了.md",
+                "file": "week7序列标注/01-项目总览.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "那啥欧克学会了"
+              "title": "01-项目总览"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week7序列标注/那啥欧克学会了.md",
+                "file": "week7序列标注/01-项目总览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week7序列标注/那啥欧克学会了.md",
+                "file": "week7序列标注/01-项目总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week7序列标注/那啥欧克学会了.md",
+                "file": "week7序列标注/01-项目总览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,11 +198,13 @@
   },
   "active": "af72cd474267dcc2",
   "lastOpenFiles": [
-    "week7序列标注/05-踩坑记录.md",
+    "数据库.base",
     "week7序列标注/那啥欧克学会了.md",
+    "未命名 1.base",
+    "week7序列标注/01-项目总览.md",
+    "week7序列标注/05-踩坑记录.md",
     "week7序列标注/04-核心技术点.md",
     "week7序列标注/02-整体流水线架构.md",
-    "week7序列标注/01-项目总览.md",
     "未命名.canvas",
     "未命名.md",
     "README.md",

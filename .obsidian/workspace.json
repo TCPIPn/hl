@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "week7序列标注/那啥欧克学会了.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -198,9 +198,9 @@
   },
   "active": "af72cd474267dcc2",
   "lastOpenFiles": [
-    "week7序列标注/04-核心技术点.md",
-    "week7序列标注/那啥欧克学会了.md",
     "week7序列标注/05-踩坑记录.md",
+    "week7序列标注/那啥欧克学会了.md",
+    "week7序列标注/04-核心技术点.md",
     "week7序列标注/02-整体流水线架构.md",
     "week7序列标注/01-项目总览.md",
     "未命名.canvas",

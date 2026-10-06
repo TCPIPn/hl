@@ -11,17 +11,14 @@
             "id": "292620476f85a87a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "markdown.canvas",
-                "viewState": {
-                  "x": -174.5,
-                  "y": 68,
-                  "zoom": 0
-                }
+                "file": "week7序列标注/01-项目总览.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "markdown"
+              "icon": "lucide-file",
+              "title": "01-项目总览"
             }
           }
         ]
@@ -201,20 +198,20 @@
   },
   "active": "292620476f85a87a",
   "lastOpenFiles": [
-    "week7序列标注/05-踩坑记录.md",
-    "week7序列标注/05-踩坑记录.md.agent_infra_tmp_10834097255486629677_13757531025900",
-    "week7序列标注/04-核心技术点.md",
-    "week7序列标注/04-核心技术点.md.agent_infra_tmp_15530226474593886453_13746581886200",
-    "week7序列标注/03-四种方案对比.md",
-    "week7序列标注/03-四种方案对比.md.agent_infra_tmp_5516935648000411304_13731306371900",
     "week7序列标注/02-整体流水线架构.md",
-    "week7序列标注/02-整体流水线架构.md.agent_infra_tmp_66329979903444027_13718547568500",
     "week7序列标注/01-项目总览.md",
+    "week7序列标注/05-踩坑记录.md",
+    "week7序列标注/04-核心技术点.md",
+    "week7序列标注/03-四种方案对比.md",
+    "README.md",
+    "markdown.canvas",
+    "week7序列标注/05-踩坑记录.md.agent_infra_tmp_10834097255486629677_13757531025900",
+    "week7序列标注/04-核心技术点.md.agent_infra_tmp_15530226474593886453_13746581886200",
+    "week7序列标注/03-四种方案对比.md.agent_infra_tmp_5516935648000411304_13731306371900",
+    "week7序列标注/02-整体流水线架构.md.agent_infra_tmp_66329979903444027_13718547568500",
     "week7序列标注/01-项目总览.md.agent_infra_tmp_13489345976483214485_13706503703800",
     "week7序列标注",
     "人工智能/我喜欢ai的速度.md",
-    "markdown.canvas",
-    "README.md",
     "人工智能.md",
     "人工智能",
     "python"

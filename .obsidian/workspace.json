@@ -16,19 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
-          },
-          {
-            "id": "a05a68ea817ffc52",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a05a68ea817ffc52",
+  "active": "af72cd474267dcc2",
   "lastOpenFiles": [
     "week7序列标注/01-项目总览.md",
     "数据库.base",
